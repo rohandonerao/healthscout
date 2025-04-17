@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787953937051",
+    "project_id": "healthscout-4e38c",
+    "storage_bucket": "healthscout-4e38c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787953937051:android:9b72b5079c688e1c2d343e",
+        "android_client_info": {
+          "package_name": "com.example.healthscout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsB4Wkl6XBSkqoKxdYa_cnjkeD0ilPfxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
